@@ -129,3 +129,36 @@ export const education = [
     degree: "Bachelor's Degree",
   },
 ];
+
+export const certifications = [
+  {
+    id: 0,
+    school: "Amazon Web Services",
+    date: "2022",
+    desc: "AWS Certified Solutions Architect – Associate",
+    degree: "Certification",
+  },
+  {
+    id: 1,
+    school: "Oracle",
+    date: "2015",
+    desc: "Oracle Certified Professional: Java SE",
+    degree: "Certification",
+  },
+  {
+    id: 2,
+    school: "Splunk",
+    date: "2019",
+    desc: "Splunk Certified Developer",
+    degree: "Certification",
+  },
+  {
+    id: 3,
+    school: "The Open Group",
+    date: "2024",
+    desc: "TOGAF® 9 Certified – Enterprise Architecture",
+    degree: "Certification",
+  },
+];
+
+
