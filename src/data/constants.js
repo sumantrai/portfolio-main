@@ -2,7 +2,7 @@ export const Bio = {
   name: "Sumant Rai",
   roles: ["Staff Software Engineer", "Java Developer", "Solution Architect", "Tech Lead"],
   description:
-    "Seasoned Staff Software Engineer with 10+ years of experience in designing and delivering scalable, cloud-native applications using Java, Spring Boot, and modern DevOps practices on AWS and Azure. Adept in microservices architecture, distributed systems, and performance optimization with strong leadership in Agile environments. Proven track record across Retail, FinTech, Government, and Supply Chain domains. Certified AWS Architect and Oracle Java Developer.",
+    "Seasoned Staff Software Engineer with 11+ years of experience in designing and delivering scalable, cloud-native applications using Java, Spring Boot, and modern DevOps practices on AWS and Azure. Adept in microservices architecture, distributed systems, and performance optimization with strong leadership in Agile environments. Proven track record across Retail, FinTech, Government, and Supply Chain domains. Certified AWS Architect and Oracle Java Developer.",
   github: "",
   resume:
     "https://drive.google.com/file/d/1HuO8_ramDP9U_9mS8tqaBPeK16SudXPY/view?usp=drive_link",
@@ -136,29 +136,27 @@ export const certifications = [
     school: "Amazon Web Services",
     date: "2022",
     desc: "AWS Certified Solutions Architect – Associate",
-    degree: "Certification",
+    degree: "AWS Certified Solutions Architect – Associate",
   },
   {
     id: 1,
     school: "Oracle",
     date: "2015",
     desc: "Oracle Certified Professional: Java SE",
-    degree: "Certification",
+    degree: "Oracle Certified Professional: Java SE",
   },
   {
     id: 2,
     school: "Splunk",
     date: "2019",
     desc: "Splunk Certified Developer",
-    degree: "Certification",
+    degree: "Splunk Certified Developer",
   },
   {
     id: 3,
     school: "The Open Group",
     date: "2024",
     desc: "TOGAF® 9 Certified – Enterprise Architecture",
-    degree: "Certification",
+    degree: "TOGAF® 9 Certified – Enterprise Architecture",
   },
 ];
-
-
