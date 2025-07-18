@@ -2,7 +2,7 @@ export const Bio = {
   name: "Sumant Rai",
   roles: ["Staff Software Engineer", "Java Developer", "Solution Architect", "Tech Lead"],
   description:
-    "Seasoned Staff Software Engineer with 10+ years of experience in designing and delivering scalable, cloud-native applications using Java, Spring Boot, and modern DevOps practices on AWS and Azure. Adept in microservices architecture, distributed systems, and performance optimization with strong leadership in Agile environments. Proven track record across Retail, FinTech, Government, and Supply Chain domains. Certified AWS Architect and Oracle Java Developer.",
+    "Seasoned Staff Software Engineer with 11+ years of experience in designing and delivering scalable, cloud-native applications using Java, Spring Boot, and modern DevOps practices on AWS and Azure. Adept in microservices architecture, distributed systems, and performance optimization with strong leadership in Agile environments. Proven track record across Retail, FinTech, Government, and Supply Chain domains. Certified AWS Architect and Oracle Java Developer.",
   github: "",
   resume:
     "https://drive.google.com/file/d/1HuO8_ramDP9U_9mS8tqaBPeK16SudXPY/view?usp=drive_link",
@@ -128,4 +128,11 @@ export const education = [
     desc: "B.Sc in Mathematics, Statistics & Information Science",
     degree: "Bachelor's Degree",
   },
+];
+
+export const certifications = [
+  { name: "AWS Certified Solutions Architect" },
+  { name: "Oracle Certified Java Developer" },
+  { name: "Splunk Certified Developer" },
+  { name: "TOGAF Certified Professional" },
 ];
