@@ -50,7 +50,7 @@ const Navbar = () => {
           <NavLink href="#experience">Experience</NavLink>
           {/* <NavLink href='#projects'>Projects</NavLink> */}
           <NavLink href="#education">Education</NavLink>
-          <NavLink href="#certifications">Certification</NavLink>
+          <NavLink href="#certification">Certification</NavLink>
         </NavItems>
         <ButtonContainer>
           <GitHubButton
@@ -98,7 +98,7 @@ const Navbar = () => {
               Education
             </MobileLink>
               <MobileLink
-              href="#certifications"
+              href="#certification"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
