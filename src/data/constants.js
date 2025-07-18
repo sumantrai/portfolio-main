@@ -6,7 +6,7 @@ export const Bio = {
   github: "",
   resume:
     "https://drive.google.com/file/d/1HuO8_ramDP9U_9mS8tqaBPeK16SudXPY/view?usp=drive_link",
-  linkedin: "www.linkedin.com/in/sumant-rai-he-him-his-723a8978",
+  linkedin: "https://www.linkedin.com/in/sumant-rai-he-him-his-723a8978/",
   insta: "",
 };
 

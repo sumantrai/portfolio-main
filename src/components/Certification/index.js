@@ -81,7 +81,7 @@ const Index = () => {
       <Wrapper>
         <Title>Certifications</Title>
         <Desc>
-          My certifications reflect a journey of continuous learning and technical growth.
+         My certifications demonstrate a continuous journey of learning, growth, and evolving technical expertise
         </Desc>
         <TimelineSection>
           <Timeline>
