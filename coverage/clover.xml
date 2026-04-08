@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1775665066430" clover="3.2.0">
+  <project timestamp="1775665066430" name="All files">
+    <metrics statements="327" coveredstatements="175" conditionals="62" coveredconditionals="13" methods="155" coveredmethods="64" elements="544" coveredelements="252" complexity="0" loc="327" ncloc="327" packages="16" files="24" classes="24"/>
+    <package name="src">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="App.js" path="/home/runner/work/portfolio-main/portfolio-main/src/App.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="37" count="9" type="stmt"/>
+        <line num="40" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.About">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="AboutStyle.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/About/AboutStyle.js">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/About/index.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Cards">
+      <metrics statements="76" coveredstatements="49" conditionals="6" coveredconditionals="5" methods="30" coveredmethods="15"/>
+      <file name="CertificationCard.jsx" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Cards/CertificationCard.jsx">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="85" count="3" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="94" count="61" type="stmt"/>
+        <line num="100" count="3" type="stmt"/>
+        <line num="103" count="61" type="stmt"/>
+        <line num="109" count="3" type="stmt"/>
+        <line num="112" count="61" type="stmt"/>
+        <line num="127" count="3" type="stmt"/>
+        <line num="128" count="61" type="stmt"/>
+      </file>
+      <file name="EducationCard.jsx" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Cards/EducationCard.jsx">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="85" count="3" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="94" count="33" type="stmt"/>
+        <line num="100" count="3" type="stmt"/>
+        <line num="103" count="33" type="stmt"/>
+        <line num="109" count="3" type="stmt"/>
+        <line num="112" count="33" type="stmt"/>
+        <line num="127" count="3" type="stmt"/>
+        <line num="128" count="33" type="stmt"/>
+      </file>
+      <file name="ExperienceCard.jsx" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Cards/ExperienceCard.jsx">
+        <metrics statements="21" coveredstatements="21" conditionals="6" coveredconditionals="5" methods="7" coveredmethods="7"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="20" count="79" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="68" count="3" type="stmt"/>
+        <line num="78" count="3" type="stmt"/>
+        <line num="85" count="3" type="stmt"/>
+        <line num="88" count="79" type="stmt"/>
+        <line num="94" count="3" type="stmt"/>
+        <line num="97" count="79" type="stmt"/>
+        <line num="103" count="3" type="stmt"/>
+        <line num="106" count="79" type="stmt"/>
+        <line num="113" count="3" type="stmt"/>
+        <line num="120" count="3" type="stmt"/>
+        <line num="126" count="3" type="stmt"/>
+        <line num="129" count="472" type="stmt"/>
+        <line num="137" count="3" type="stmt"/>
+        <line num="138" count="79" type="stmt"/>
+        <line num="160" count="472" type="stmt"/>
+      </file>
+      <file name="ProjectCards.jsx" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Cards/ProjectCards.jsx">
+        <metrics statements="27" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Certification">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Certification/index.js">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="14" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="57" count="14" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="78" count="2" type="stmt"/>
+        <line num="79" count="14" type="stmt"/>
+        <line num="89" count="56" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Contact">
+      <metrics statements="31" coveredstatements="0" conditionals="24" coveredconditionals="0" methods="14" coveredmethods="0"/>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Contact/index.js">
+        <metrics statements="31" coveredstatements="0" conditionals="24" coveredconditionals="0" methods="14" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="59" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="86" count="0" type="cond" truecount="0" falsecount="6"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Education">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Education/index.js">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="14" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="57" count="14" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="81" count="15" type="stmt"/>
+        <line num="91" count="30" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Experience">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Experience/index.js">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="14" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="57" count="14" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="16" type="stmt"/>
+        <line num="88" count="80" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Footer">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Footer/index.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="25" count="13" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="31" count="13" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="52" type="stmt"/>
+        <line num="57" count="52" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="73" count="26" type="stmt"/>
+        <line num="76" count="26" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="83" count="13" type="stmt"/>
+        <line num="88" count="13" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.HeroBgAnimation">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="HeroBgAnimationStyle.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/HeroBgAnimation/HeroBgAnimationStyle.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/HeroBgAnimation/index.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.HeroSection">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="HeroStyle.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/HeroSection/HeroStyle.js">
+        <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="15" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="100" count="15" type="stmt"/>
+        <line num="113" count="2" type="stmt"/>
+        <line num="116" count="15" type="stmt"/>
+        <line num="129" count="2" type="stmt"/>
+        <line num="134" count="15" type="stmt"/>
+        <line num="146" count="2" type="stmt"/>
+        <line num="147" count="15" type="stmt"/>
+        <line num="151" count="2" type="stmt"/>
+        <line num="155" count="15" type="stmt"/>
+        <line num="167" count="2" type="stmt"/>
+        <line num="176" count="15" type="stmt"/>
+      </file>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/HeroSection/index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="15" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Navbar">
+      <metrics statements="48" coveredstatements="28" conditionals="8" coveredconditionals="1" methods="30" coveredmethods="10"/>
+      <file name="NavbarStyledComponent.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Navbar/NavbarStyledComponent.js">
+        <metrics statements="38" coveredstatements="24" conditionals="6" coveredconditionals="0" methods="23" coveredmethods="9"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="13" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="63" count="65" type="stmt"/>
+        <line num="69" count="65" type="stmt"/>
+        <line num="73" count="65" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="13" type="stmt"/>
+        <line num="84" count="13" type="stmt"/>
+        <line num="92" count="13" type="stmt"/>
+        <line num="93" count="13" type="stmt"/>
+        <line num="100" count="2" type="stmt"/>
+        <line num="112" count="2" type="stmt"/>
+        <line num="122" count="13" type="stmt"/>
+        <line num="126" count="2" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="139" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="142" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="143" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="146" count="2" type="stmt"/>
+        <line num="157" count="2" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="164" count="0" type="stmt"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="172" count="2" type="stmt"/>
+        <line num="173" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="188" count="0" type="stmt"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="193" count="2" type="stmt"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="200" count="0" type="stmt"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="208" count="2" type="stmt"/>
+      </file>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Navbar/index.js">
+        <metrics statements="10" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="7" coveredmethods="1"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="15" type="stmt"/>
+        <line num="23" count="13" type="stmt"/>
+        <line num="24" count="13" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProjectDetails">
+      <metrics statements="36" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="19" coveredmethods="0"/>
+      <file name="index.jsx" path="/home/runner/work/portfolio-main/portfolio-main/src/components/ProjectDetails/index.jsx">
+        <metrics statements="36" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="19" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="162" count="0" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+        <line num="166" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="170" count="0" type="stmt"/>
+        <line num="177" count="0" type="stmt"/>
+        <line num="185" count="0" type="stmt"/>
+        <line num="186" count="0" type="stmt"/>
+        <line num="187" count="0" type="stmt"/>
+        <line num="188" count="0" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="214" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Projects">
+      <metrics statements="29" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="19" coveredmethods="0"/>
+      <file name="ProjectsStyle.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Projects/ProjectsStyle.js">
+        <metrics statements="15" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Projects/index.js">
+        <metrics statements="14" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="12" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Skills">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="index.js" path="/home/runner/work/portfolio-main/portfolio-main/src/components/Skills/index.js">
+        <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="33" count="15" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="44" count="15" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="62" count="75" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="80" count="75" type="stmt"/>
+        <line num="85" count="2" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="96" count="480" type="stmt"/>
+        <line num="97" count="480" type="stmt"/>
+        <line num="114" count="2" type="stmt"/>
+        <line num="119" count="2" type="stmt"/>
+        <line num="120" count="17" type="stmt"/>
+        <line num="130" count="85" type="stmt"/>
+        <line num="134" count="544" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.data">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="constants.js" path="/home/runner/work/portfolio-main/portfolio-main/src/data/constants.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="73" count="9" type="stmt"/>
+        <line num="116" count="9" type="stmt"/>
+        <line num="133" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Themes.js" path="/home/runner/work/portfolio-main/portfolio-main/src/utils/Themes.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="12" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

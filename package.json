@@ -28,12 +28,21 @@
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
+    "test:coverage": "react-scripts test --coverage --watchAll=false",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "lint": "eslint src/**/*.{js,jsx}",
     "build": "react-scripts build",
     "prebuild": "npx browserslist@latest --update-db"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!src/index.js",
+      "!src/testUtils.js",
+      "!src/themes/default.js"
+    ]
   },
   "eslintConfig": {
     "extends": [
